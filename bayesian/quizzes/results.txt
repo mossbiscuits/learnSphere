@@ -1,0 +1,425 @@
+Testing strategy: Epsilon-Greedy (0.01) (epsilon=0.01, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.02) (epsilon=0.02, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.05) (epsilon=0.05, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.1) (epsilon=0.1, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.2) (epsilon=0.2, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.3) (epsilon=0.3, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.5) (epsilon=0.5, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.7) (epsilon=0.7, threshold=0.9)
+Testing strategy: Epsilon-Greedy (0.9) (epsilon=0.9, threshold=0.9)
+Testing strategy: Epsilon-Greedy (1.0) (epsilon=1.0, threshold=0.9)
+Testing strategy: Epsilon-Greedy (2.0) (epsilon=2.0, threshold=0.9)
+Testing strategy: Fixed Difficulty (epsilon=0.0, threshold=0.9)
+Testing strategy: 0.6 Proficiency Threshold (epsilon=0.1, threshold=0.6)
+Testing strategy: 0.7 Proficiency Threshold (epsilon=0.1, threshold=0.7)
+Testing strategy: 0.8 Proficiency Threshold (epsilon=0.1, threshold=0.8)
+Testing strategy: 0.9 Proficiency Threshold (epsilon=0.1, threshold=0.9)
+Testing strategy: 0.95 Proficiency Threshold (epsilon=0.1, threshold=0.95)
+Testing strategy: 0.97 Proficiency Threshold (epsilon=0.1, threshold=0.97)
+Testing strategy: 0.99 Proficiency Threshold (epsilon=0.1, threshold=0.99)
+Testing strategy: No Early Termination (epsilon=0.1, threshold=1.5)
+
+Results for Epsilon-Greedy (0.01):
+  Overall Average Score: 21.84
+  Overall Average Proficiency: 0.61
+  Overall Average Grade: 85.18
+  Difficulty Level 0:
+    Average Score: 4.16, Std Dev: 2.63
+    Average Proficiency: 0.39, Std Dev: 0.25
+  Difficulty Level 1:
+    Average Score: 3.19, Std Dev: 1.52
+    Average Proficiency: 0.59, Std Dev: 0.17
+  Difficulty Level 2:
+    Average Score: 3.01, Std Dev: 1.18
+    Average Proficiency: 0.63, Std Dev: 0.13
+  Difficulty Level 3:
+    Average Score: 3.04, Std Dev: 0.96
+    Average Proficiency: 0.64, Std Dev: 0.12
+  Difficulty Level 4:
+    Average Score: 8.44, Std Dev: 2.13
+    Average Proficiency: 0.79, Std Dev: 0.12
+
+Results for Epsilon-Greedy (0.02):
+  Overall Average Score: 22.46
+  Overall Average Proficiency: 0.61
+  Overall Average Grade: 85.21
+  Difficulty Level 0:
+    Average Score: 4.12, Std Dev: 3.17
+    Average Proficiency: 0.39, Std Dev: 0.26
+  Difficulty Level 1:
+    Average Score: 3.35, Std Dev: 2.08
+    Average Proficiency: 0.60, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 3.04, Std Dev: 1.43
+    Average Proficiency: 0.62, Std Dev: 0.15
+  Difficulty Level 3:
+    Average Score: 3.19, Std Dev: 1.54
+    Average Proficiency: 0.65, Std Dev: 0.14
+  Difficulty Level 4:
+    Average Score: 8.77, Std Dev: 4.67
+    Average Proficiency: 0.78, Std Dev: 0.13
+
+Results for Epsilon-Greedy (0.05):
+  Overall Average Score: 22.95
+  Overall Average Proficiency: 0.62
+  Overall Average Grade: 84.90
+  Difficulty Level 0:
+    Average Score: 4.02, Std Dev: 2.88
+    Average Proficiency: 0.42, Std Dev: 0.26
+  Difficulty Level 1:
+    Average Score: 3.24, Std Dev: 2.33
+    Average Proficiency: 0.60, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 3.27, Std Dev: 2.10
+    Average Proficiency: 0.66, Std Dev: 0.15
+  Difficulty Level 3:
+    Average Score: 3.57, Std Dev: 2.06
+    Average Proficiency: 0.66, Std Dev: 0.16
+  Difficulty Level 4:
+    Average Score: 8.85, Std Dev: 4.07
+    Average Proficiency: 0.78, Std Dev: 0.14
+
+Results for Epsilon-Greedy (0.1):
+  Overall Average Score: 23.29
+  Overall Average Proficiency: 0.64
+  Overall Average Grade: 86.27
+  Difficulty Level 0:
+    Average Score: 3.66, Std Dev: 2.75
+    Average Proficiency: 0.44, Std Dev: 0.25
+  Difficulty Level 1:
+    Average Score: 3.20, Std Dev: 2.52
+    Average Proficiency: 0.62, Std Dev: 0.19
+  Difficulty Level 2:
+    Average Score: 3.53, Std Dev: 2.53
+    Average Proficiency: 0.67, Std Dev: 0.16
+  Difficulty Level 3:
+    Average Score: 3.81, Std Dev: 2.49
+    Average Proficiency: 0.67, Std Dev: 0.17
+  Difficulty Level 4:
+    Average Score: 9.09, Std Dev: 4.74
+    Average Proficiency: 0.78, Std Dev: 0.14
+
+Results for Epsilon-Greedy (0.2):
+  Overall Average Score: 25.15
+  Overall Average Proficiency: 0.65
+  Overall Average Grade: 87.38
+  Difficulty Level 0:
+    Average Score: 3.95, Std Dev: 3.18
+    Average Proficiency: 0.49, Std Dev: 0.24
+  Difficulty Level 1:
+    Average Score: 4.09, Std Dev: 3.07
+    Average Proficiency: 0.65, Std Dev: 0.20
+  Difficulty Level 2:
+    Average Score: 4.50, Std Dev: 2.97
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 3:
+    Average Score: 4.52, Std Dev: 2.88
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 4:
+    Average Score: 8.09, Std Dev: 5.17
+    Average Proficiency: 0.77, Std Dev: 0.15
+
+Results for Epsilon-Greedy (0.3):
+  Overall Average Score: 25.86
+  Overall Average Proficiency: 0.66
+  Overall Average Grade: 88.35
+  Difficulty Level 0:
+    Average Score: 3.86, Std Dev: 2.93
+    Average Proficiency: 0.51, Std Dev: 0.24
+  Difficulty Level 1:
+    Average Score: 4.57, Std Dev: 3.01
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 4.75, Std Dev: 2.90
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 3:
+    Average Score: 4.91, Std Dev: 3.06
+    Average Proficiency: 0.70, Std Dev: 0.18
+  Difficulty Level 4:
+    Average Score: 7.76, Std Dev: 4.39
+    Average Proficiency: 0.76, Std Dev: 0.15
+
+Results for Epsilon-Greedy (0.5):
+  Overall Average Score: 26.98
+  Overall Average Proficiency: 0.68
+  Overall Average Grade: 89.48
+  Difficulty Level 0:
+    Average Score: 4.61, Std Dev: 3.23
+    Average Proficiency: 0.60, Std Dev: 0.23
+  Difficulty Level 1:
+    Average Score: 5.22, Std Dev: 3.06
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 5.41, Std Dev: 3.14
+    Average Proficiency: 0.70, Std Dev: 0.18
+  Difficulty Level 3:
+    Average Score: 5.29, Std Dev: 3.02
+    Average Proficiency: 0.69, Std Dev: 0.18
+  Difficulty Level 4:
+    Average Score: 6.44, Std Dev: 3.43
+    Average Proficiency: 0.73, Std Dev: 0.17
+
+Results for Epsilon-Greedy (0.7):
+  Overall Average Score: 28.09
+  Overall Average Proficiency: 0.67
+  Overall Average Grade: 87.84
+  Difficulty Level 0:
+    Average Score: 5.18, Std Dev: 3.24
+    Average Proficiency: 0.62, Std Dev: 0.23
+  Difficulty Level 1:
+    Average Score: 5.55, Std Dev: 3.15
+    Average Proficiency: 0.68, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 5.80, Std Dev: 3.43
+    Average Proficiency: 0.68, Std Dev: 0.19
+  Difficulty Level 3:
+    Average Score: 5.59, Std Dev: 3.34
+    Average Proficiency: 0.68, Std Dev: 0.20
+  Difficulty Level 4:
+    Average Score: 5.97, Std Dev: 3.43
+    Average Proficiency: 0.70, Std Dev: 0.18
+
+Results for Epsilon-Greedy (0.9):
+  Overall Average Score: 28.17
+  Overall Average Proficiency: 0.67
+  Overall Average Grade: 87.90
+  Difficulty Level 0:
+    Average Score: 5.58, Std Dev: 2.97
+    Average Proficiency: 0.64, Std Dev: 0.22
+  Difficulty Level 1:
+    Average Score: 5.60, Std Dev: 2.87
+    Average Proficiency: 0.68, Std Dev: 0.19
+  Difficulty Level 2:
+    Average Score: 5.86, Std Dev: 2.91
+    Average Proficiency: 0.67, Std Dev: 0.19
+  Difficulty Level 3:
+    Average Score: 5.51, Std Dev: 2.86
+    Average Proficiency: 0.66, Std Dev: 0.20
+  Difficulty Level 4:
+    Average Score: 5.63, Std Dev: 2.94
+    Average Proficiency: 0.69, Std Dev: 0.18
+
+Results for Epsilon-Greedy (1.0):
+  Overall Average Score: 28.63
+  Overall Average Proficiency: 0.67
+  Overall Average Grade: 87.65
+  Difficulty Level 0:
+    Average Score: 5.60, Std Dev: 2.93
+    Average Proficiency: 0.64, Std Dev: 0.22
+  Difficulty Level 1:
+    Average Score: 5.85, Std Dev: 2.84
+    Average Proficiency: 0.67, Std Dev: 0.20
+  Difficulty Level 2:
+    Average Score: 5.77, Std Dev: 2.92
+    Average Proficiency: 0.67, Std Dev: 0.19
+  Difficulty Level 3:
+    Average Score: 5.65, Std Dev: 2.96
+    Average Proficiency: 0.66, Std Dev: 0.20
+  Difficulty Level 4:
+    Average Score: 5.76, Std Dev: 2.68
+    Average Proficiency: 0.70, Std Dev: 0.19
+
+Results for Epsilon-Greedy (2.0):
+  Overall Average Score: 28.54
+  Overall Average Proficiency: 0.68
+  Overall Average Grade: 88.56
+  Difficulty Level 0:
+    Average Score: 5.53, Std Dev: 2.93
+    Average Proficiency: 0.65, Std Dev: 0.22
+  Difficulty Level 1:
+    Average Score: 5.74, Std Dev: 2.95
+    Average Proficiency: 0.68, Std Dev: 0.19
+  Difficulty Level 2:
+    Average Score: 5.85, Std Dev: 2.98
+    Average Proficiency: 0.69, Std Dev: 0.19
+  Difficulty Level 3:
+    Average Score: 5.61, Std Dev: 2.95
+    Average Proficiency: 0.68, Std Dev: 0.19
+  Difficulty Level 4:
+    Average Score: 5.81, Std Dev: 2.81
+    Average Proficiency: 0.71, Std Dev: 0.18
+
+Results for Fixed Difficulty:
+  Overall Average Score: 21.92
+  Overall Average Proficiency: 0.61
+  Overall Average Grade: 85.40
+  Difficulty Level 0:
+    Average Score: 4.52, Std Dev: 3.49
+    Average Proficiency: 0.42, Std Dev: 0.26
+  Difficulty Level 1:
+    Average Score: 3.38, Std Dev: 1.53
+    Average Proficiency: 0.58, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 2.98, Std Dev: 0.40
+    Average Proficiency: 0.61, Std Dev: 0.13
+  Difficulty Level 3:
+    Average Score: 2.96, Std Dev: 0.33
+    Average Proficiency: 0.64, Std Dev: 0.10
+  Difficulty Level 4:
+    Average Score: 8.08, Std Dev: 0.97
+    Average Proficiency: 0.79, Std Dev: 0.12
+
+Results for 0.6 Proficiency Threshold:
+  Overall Average Score: 17.19
+  Overall Average Proficiency: 0.61
+  Overall Average Grade: 80.81
+  Difficulty Level 0:
+    Average Score: 3.47, Std Dev: 2.81
+    Average Proficiency: 0.44, Std Dev: 0.26
+  Difficulty Level 1:
+    Average Score: 2.87, Std Dev: 2.51
+    Average Proficiency: 0.60, Std Dev: 0.19
+  Difficulty Level 2:
+    Average Score: 2.83, Std Dev: 2.29
+    Average Proficiency: 0.64, Std Dev: 0.17
+  Difficulty Level 3:
+    Average Score: 2.69, Std Dev: 1.92
+    Average Proficiency: 0.62, Std Dev: 0.16
+  Difficulty Level 4:
+    Average Score: 5.33, Std Dev: 4.60
+    Average Proficiency: 0.75, Std Dev: 0.16
+
+Results for 0.7 Proficiency Threshold:
+  Overall Average Score: 17.87
+  Overall Average Proficiency: 0.63
+  Overall Average Grade: 83.53
+  Difficulty Level 0:
+    Average Score: 3.60, Std Dev: 2.69
+    Average Proficiency: 0.45, Std Dev: 0.25
+  Difficulty Level 1:
+    Average Score: 3.12, Std Dev: 2.45
+    Average Proficiency: 0.62, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 2.86, Std Dev: 2.00
+    Average Proficiency: 0.64, Std Dev: 0.15
+  Difficulty Level 3:
+    Average Score: 2.73, Std Dev: 2.02
+    Average Proficiency: 0.66, Std Dev: 0.14
+  Difficulty Level 4:
+    Average Score: 5.55, Std Dev: 4.67
+    Average Proficiency: 0.76, Std Dev: 0.16
+
+Results for 0.8 Proficiency Threshold:
+  Overall Average Score: 18.66
+  Overall Average Proficiency: 0.62
+  Overall Average Grade: 83.75
+  Difficulty Level 0:
+    Average Score: 3.49, Std Dev: 2.58
+    Average Proficiency: 0.43, Std Dev: 0.24
+  Difficulty Level 1:
+    Average Score: 3.08, Std Dev: 2.36
+    Average Proficiency: 0.63, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 2.94, Std Dev: 1.96
+    Average Proficiency: 0.64, Std Dev: 0.15
+  Difficulty Level 3:
+    Average Score: 2.90, Std Dev: 1.69
+    Average Proficiency: 0.63, Std Dev: 0.15
+  Difficulty Level 4:
+    Average Score: 6.25, Std Dev: 4.57
+    Average Proficiency: 0.75, Std Dev: 0.16
+
+Results for 0.9 Proficiency Threshold:
+  Overall Average Score: 23.96
+  Overall Average Proficiency: 0.64
+  Overall Average Grade: 86.00
+  Difficulty Level 0:
+    Average Score: 3.52, Std Dev: 2.72
+    Average Proficiency: 0.43, Std Dev: 0.24
+  Difficulty Level 1:
+    Average Score: 3.44, Std Dev: 2.60
+    Average Proficiency: 0.64, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 3.83, Std Dev: 2.59
+    Average Proficiency: 0.68, Std Dev: 0.16
+  Difficulty Level 3:
+    Average Score: 3.99, Std Dev: 2.47
+    Average Proficiency: 0.66, Std Dev: 0.18
+  Difficulty Level 4:
+    Average Score: 9.17, Std Dev: 5.68
+    Average Proficiency: 0.78, Std Dev: 0.14
+
+Results for 0.95 Proficiency Threshold:
+  Overall Average Score: 42.19
+  Overall Average Proficiency: 0.69
+  Overall Average Grade: 90.72
+  Difficulty Level 0:
+    Average Score: 4.53, Std Dev: 3.16
+    Average Proficiency: 0.46, Std Dev: 0.25
+  Difficulty Level 1:
+    Average Score: 5.12, Std Dev: 4.00
+    Average Proficiency: 0.68, Std Dev: 0.19
+  Difficulty Level 2:
+    Average Score: 5.94, Std Dev: 4.26
+    Average Proficiency: 0.71, Std Dev: 0.19
+  Difficulty Level 3:
+    Average Score: 6.57, Std Dev: 4.17
+    Average Proficiency: 0.74, Std Dev: 0.17
+  Difficulty Level 4:
+    Average Score: 20.03, Std Dev: 8.17
+    Average Proficiency: 0.86, Std Dev: 0.13
+
+Results for 0.97 Proficiency Threshold:
+  Overall Average Score: 62.90
+  Overall Average Proficiency: 0.72
+  Overall Average Grade: 93.54
+  Difficulty Level 0:
+    Average Score: 5.27, Std Dev: 4.28
+    Average Proficiency: 0.47, Std Dev: 0.27
+  Difficulty Level 1:
+    Average Score: 6.49, Std Dev: 4.79
+    Average Proficiency: 0.69, Std Dev: 0.20
+  Difficulty Level 2:
+    Average Score: 8.05, Std Dev: 5.16
+    Average Proficiency: 0.75, Std Dev: 0.18
+  Difficulty Level 3:
+    Average Score: 9.26, Std Dev: 5.08
+    Average Proficiency: 0.78, Std Dev: 0.15
+  Difficulty Level 4:
+    Average Score: 33.82, Std Dev: 7.38
+    Average Proficiency: 0.89, Std Dev: 0.12
+
+Results for 0.99 Proficiency Threshold:
+  Overall Average Score: 95.67
+  Overall Average Proficiency: 0.75
+  Overall Average Grade: 95.67
+  Difficulty Level 0:
+    Average Score: 6.41, Std Dev: 3.67
+    Average Proficiency: 0.48, Std Dev: 0.27
+  Difficulty Level 1:
+    Average Score: 9.48, Std Dev: 4.54
+    Average Proficiency: 0.74, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 11.88, Std Dev: 4.51
+    Average Proficiency: 0.78, Std Dev: 0.17
+  Difficulty Level 3:
+    Average Score: 13.70, Std Dev: 4.40
+    Average Proficiency: 0.82, Std Dev: 0.14
+  Difficulty Level 4:
+    Average Score: 54.20, Std Dev: 12.09
+    Average Proficiency: 0.93, Std Dev: 0.10
+
+Results for No Early Termination:
+  Overall Average Score: 96.05
+  Overall Average Proficiency: 0.75
+  Overall Average Grade: 96.05
+  Difficulty Level 0:
+    Average Score: 6.61, Std Dev: 3.97
+    Average Proficiency: 0.51, Std Dev: 0.26
+  Difficulty Level 1:
+    Average Score: 9.15, Std Dev: 4.31
+    Average Proficiency: 0.74, Std Dev: 0.18
+  Difficulty Level 2:
+    Average Score: 11.53, Std Dev: 4.37
+    Average Proficiency: 0.78, Std Dev: 0.17
+  Difficulty Level 3:
+    Average Score: 13.36, Std Dev: 4.42
+    Average Proficiency: 0.82, Std Dev: 0.14
+  Difficulty Level 4:
+    Average Score: 55.39, Std Dev: 11.86
+    Average Proficiency: 0.92, Std Dev: 0.10
+
+Overall Summary:
+  Overall Average Score across all strategies: 33.92
+  Overall Average Proficiency across all strategies: 0.66
+  Overall Average Grade across all strategies: 87.71

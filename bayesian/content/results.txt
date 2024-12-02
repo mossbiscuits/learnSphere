@@ -1,0 +1,400 @@
+Student 0
+  True Preferences: 0.489, 0.644, 0.410, 0.405, 0.750
+  Mean Preferences: 0.364, 0.571, 0.133, 0.526, 0.588
+  Difference:       0.125, 0.073, 0.277, 0.122, 0.162
+Student 1
+  True Preferences: 0.662, 0.455, 0.762, 0.461, 0.571
+  Mean Preferences: 0.900, 0.462, 0.810, 0.364, 0.538
+  Difference:       0.238, 0.006, 0.048, 0.097, 0.033
+Student 2
+  True Preferences: 0.477, 0.658, 0.794, 0.448, 0.631
+  Mean Preferences: 0.474, 0.667, 0.611, 0.455, 0.583
+  Difference:       0.003, 0.008, 0.182, 0.007, 0.048
+Student 3
+  True Preferences: 0.550, 0.540, 0.812, 0.891, 0.550
+  Mean Preferences: 0.500, 0.462, 0.810, 0.800, 0.400
+  Difference:       0.050, 0.079, 0.003, 0.091, 0.150
+Student 4
+  True Preferences: 0.856, 0.892, 0.449, 0.776, 0.452
+  Mean Preferences: 0.917, 0.714, 0.545, 0.850, 0.400
+  Difference:       0.061, 0.178, 0.097, 0.074, 0.052
+Student 5
+  True Preferences: 0.413, 0.675, 0.681, 0.742, 0.730
+  Mean Preferences: 0.333, 0.850, 0.750, 0.714, 0.905
+  Difference:       0.080, 0.175, 0.069, 0.028, 0.175
+Student 6
+  True Preferences: 0.633, 0.428, 0.864, 0.517, 0.584
+  Mean Preferences: 0.684, 0.417, 0.857, 0.381, 0.750
+  Difference:       0.051, 0.012, 0.007, 0.136, 0.166
+Student 7
+  True Preferences: 0.641, 0.742, 0.691, 0.593, 0.763
+  Mean Preferences: 0.714, 0.762, 0.611, 0.571, 0.722
+  Difference:       0.073, 0.020, 0.080, 0.022, 0.040
+Student 8
+  True Preferences: 0.495, 0.689, 0.659, 0.717, 0.879
+  Mean Preferences: 0.545, 0.727, 0.769, 0.375, 0.833
+  Difference:       0.051, 0.038, 0.111, 0.342, 0.046
+Student 9
+  True Preferences: 0.774, 0.421, 0.586, 0.468, 0.822
+  Mean Preferences: 0.778, 0.500, 0.588, 0.450, 0.765
+  Difference:       0.004, 0.079, 0.002, 0.018, 0.058
+Student 10
+  True Preferences: 0.598, 0.605, 0.663, 0.695, 0.452
+  Mean Preferences: 0.714, 0.444, 0.733, 0.857, 0.476
+  Difference:       0.116, 0.161, 0.070, 0.162, 0.024
+Student 11
+  True Preferences: 0.805, 0.840, 0.502, 0.530, 0.638
+  Mean Preferences: 0.818, 0.889, 0.300, 0.556, 0.762
+  Difference:       0.013, 0.049, 0.202, 0.025, 0.124
+Student 12
+  True Preferences: 0.761, 0.449, 0.524, 0.544, 0.893
+  Mean Preferences: 0.588, 0.471, 0.500, 0.625, 0.905
+  Difference:       0.173, 0.022, 0.024, 0.081, 0.012
+Student 13
+  True Preferences: 0.593, 0.713, 0.849, 0.531, 0.720
+  Mean Preferences: 0.429, 0.700, 0.714, 0.571, 0.538
+  Difference:       0.164, 0.013, 0.135, 0.040, 0.181
+Student 14
+  True Preferences: 0.708, 0.686, 0.736, 0.629, 0.675
+  Mean Preferences: 0.125, 0.600, 0.917, 0.588, 0.444
+  Difference:       0.583, 0.086, 0.181, 0.041, 0.231
+Student 15
+  True Preferences: 0.724, 0.839, 0.767, 0.876, 0.637
+  Mean Preferences: 0.500, 0.583, 0.636, 0.800, 0.611
+  Difference:       0.224, 0.255, 0.131, 0.076, 0.026
+Student 16
+  True Preferences: 0.625, 0.710, 0.562, 0.715, 0.712
+  Mean Preferences: 0.556, 0.824, 0.750, 0.650, 0.750
+  Difference:       0.069, 0.114, 0.188, 0.065, 0.038
+Student 17
+  True Preferences: 0.858, 0.787, 0.892, 0.700, 0.748
+  Mean Preferences: 0.833, 0.625, 0.857, 0.842, 0.619
+  Difference:       0.025, 0.162, 0.035, 0.142, 0.129
+Student 18
+  True Preferences: 0.481, 0.745, 0.449, 0.555, 0.885
+  Mean Preferences: 0.400, 0.778, 0.300, 0.455, 0.818
+  Difference:       0.081, 0.033, 0.149, 0.100, 0.067
+Student 19
+  True Preferences: 0.777, 0.555, 0.779, 0.556, 0.646
+  Mean Preferences: 0.895, 0.727, 0.762, 0.455, 0.476
+  Difference:       0.117, 0.173, 0.017, 0.102, 0.170
+Student 20
+  True Preferences: 0.839, 0.464, 0.695, 0.421, 0.693
+  Mean Preferences: 0.700, 0.417, 0.600, 0.375, 0.778
+  Difference:       0.139, 0.048, 0.095, 0.046, 0.085
+Student 21
+  True Preferences: 0.623, 0.767, 0.515, 0.639, 0.848
+  Mean Preferences: 0.143, 0.800, 0.438, 0.636, 0.846
+  Difference:       0.481, 0.033, 0.077, 0.003, 0.002
+Student 22
+  True Preferences: 0.602, 0.690, 0.501, 0.843, 0.806
+  Mean Preferences: 0.636, 0.429, 0.688, 0.900, 0.833
+  Difference:       0.035, 0.262, 0.187, 0.057, 0.027
+Student 23
+  True Preferences: 0.823, 0.658, 0.477, 0.735, 0.428
+  Mean Preferences: 0.714, 0.429, 0.700, 0.722, 0.350
+  Difference:       0.109, 0.230, 0.223, 0.013, 0.078
+Student 24
+  True Preferences: 0.702, 0.509, 0.477, 0.503, 0.498
+  Mean Preferences: 0.600, 0.500, 0.375, 0.500, 0.375
+  Difference:       0.102, 0.009, 0.102, 0.003, 0.123
+Student 25
+  True Preferences: 0.639, 0.473, 0.772, 0.801, 0.707
+  Mean Preferences: 0.583, 0.385, 0.789, 0.818, 0.750
+  Difference:       0.056, 0.088, 0.017, 0.017, 0.043
+Student 26
+  True Preferences: 0.432, 0.888, 0.668, 0.757, 0.561
+  Mean Preferences: 0.583, 0.875, 0.875, 0.600, 0.450
+  Difference:       0.151, 0.013, 0.207, 0.157, 0.111
+Student 27
+  True Preferences: 0.750, 0.823, 0.739, 0.619, 0.759
+  Mean Preferences: 0.857, 0.867, 0.600, 0.611, 0.818
+  Difference:       0.107, 0.044, 0.139, 0.008, 0.059
+Student 28
+  True Preferences: 0.632, 0.646, 0.660, 0.858, 0.761
+  Mean Preferences: 0.714, 0.667, 0.833, 0.778, 0.833
+  Difference:       0.082, 0.021, 0.173, 0.080, 0.073
+Student 29
+  True Preferences: 0.830, 0.449, 0.408, 0.628, 0.538
+  Mean Preferences: 0.706, 0.417, 0.476, 0.429, 0.462
+  Difference:       0.124, 0.033, 0.068, 0.200, 0.076
+Student 30
+  True Preferences: 0.437, 0.811, 0.442, 0.810, 0.706
+  Mean Preferences: 0.385, 0.810, 0.267, 0.700, 0.857
+  Difference:       0.052, 0.002, 0.175, 0.110, 0.152
+Student 31
+  True Preferences: 0.821, 0.848, 0.633, 0.665, 0.609
+  Mean Preferences: 0.889, 0.857, 0.667, 0.571, 0.556
+  Difference:       0.068, 0.009, 0.034, 0.094, 0.054
+Student 32
+  True Preferences: 0.540, 0.490, 0.531, 0.480, 0.860
+  Mean Preferences: 0.650, 0.286, 0.571, 0.500, 0.750
+  Difference:       0.110, 0.205, 0.040, 0.020, 0.110
+Student 33
+  True Preferences: 0.717, 0.599, 0.733, 0.571, 0.402
+  Mean Preferences: 0.714, 0.615, 0.667, 0.778, 0.333
+  Difference:       0.003, 0.017, 0.067, 0.207, 0.069
+Student 34
+  True Preferences: 0.454, 0.817, 0.786, 0.698, 0.502
+  Mean Preferences: 0.467, 0.647, 0.714, 0.846, 0.556
+  Difference:       0.013, 0.170, 0.072, 0.148, 0.054
+Student 35
+  True Preferences: 0.435, 0.520, 0.667, 0.555, 0.576
+  Mean Preferences: 0.700, 0.500, 0.750, 0.500, 0.455
+  Difference:       0.265, 0.020, 0.083, 0.055, 0.121
+Student 36
+  True Preferences: 0.877, 0.857, 0.476, 0.490, 0.844
+  Mean Preferences: 0.778, 0.875, 0.286, 0.632, 0.692
+  Difference:       0.099, 0.018, 0.190, 0.141, 0.152
+Student 37
+  True Preferences: 0.619, 0.571, 0.758, 0.827, 0.779
+  Mean Preferences: 0.467, 0.625, 0.750, 0.905, 0.800
+  Difference:       0.152, 0.054, 0.008, 0.078, 0.021
+Student 38
+  True Preferences: 0.845, 0.782, 0.885, 0.801, 0.829
+  Mean Preferences: 0.600, 0.810, 0.800, 0.706, 0.700
+  Difference:       0.245, 0.027, 0.085, 0.095, 0.129
+Student 39
+  True Preferences: 0.701, 0.797, 0.532, 0.696, 0.561
+  Mean Preferences: 0.700, 0.857, 0.429, 0.571, 0.556
+  Difference:       0.001, 0.060, 0.104, 0.124, 0.005
+Student 40
+  True Preferences: 0.872, 0.766, 0.612, 0.782, 0.460
+  Mean Preferences: 0.714, 0.778, 0.600, 0.733, 0.556
+  Difference:       0.158, 0.011, 0.012, 0.049, 0.095
+Student 41
+  True Preferences: 0.751, 0.778, 0.825, 0.625, 0.590
+  Mean Preferences: 0.667, 0.786, 0.842, 0.429, 0.444
+  Difference:       0.084, 0.008, 0.017, 0.197, 0.146
+Student 42
+  True Preferences: 0.436, 0.849, 0.519, 0.818, 0.568
+  Mean Preferences: 0.263, 0.700, 0.647, 0.500, 0.533
+  Difference:       0.173, 0.149, 0.128, 0.318, 0.034
+Student 43
+  True Preferences: 0.608, 0.452, 0.525, 0.553, 0.782
+  Mean Preferences: 0.800, 0.263, 0.526, 0.444, 0.667
+  Difference:       0.192, 0.189, 0.002, 0.108, 0.115
+Student 44
+  True Preferences: 0.651, 0.622, 0.668, 0.536, 0.660
+  Mean Preferences: 0.476, 0.500, 0.588, 0.727, 0.455
+  Difference:       0.175, 0.122, 0.079, 0.191, 0.205
+Student 45
+  True Preferences: 0.813, 0.428, 0.506, 0.868, 0.796
+  Mean Preferences: 0.833, 0.429, 0.688, 0.714, 0.700
+  Difference:       0.020, 0.000, 0.181, 0.154, 0.096
+Student 46
+  True Preferences: 0.827, 0.747, 0.774, 0.819, 0.812
+  Mean Preferences: 0.812, 0.700, 0.818, 0.706, 0.786
+  Difference:       0.014, 0.047, 0.044, 0.113, 0.027
+Student 47
+  True Preferences: 0.734, 0.806, 0.728, 0.407, 0.817
+  Mean Preferences: 0.600, 0.625, 0.706, 0.235, 0.875
+  Difference:       0.134, 0.181, 0.022, 0.171, 0.058
+Student 48
+  True Preferences: 0.795, 0.698, 0.864, 0.654, 0.723
+  Mean Preferences: 0.722, 0.545, 0.824, 0.650, 0.714
+  Difference:       0.073, 0.153, 0.041, 0.004, 0.009
+Student 49
+  True Preferences: 0.458, 0.730, 0.409, 0.487, 0.439
+  Mean Preferences: 0.556, 0.667, 0.353, 0.455, 0.600
+  Difference:       0.097, 0.063, 0.056, 0.033, 0.161
+Student 50
+  True Preferences: 0.555, 0.829, 0.475, 0.740, 0.724
+  Mean Preferences: 0.429, 0.895, 0.353, 0.650, 0.750
+  Difference:       0.126, 0.066, 0.122, 0.090, 0.026
+Student 51
+  True Preferences: 0.567, 0.706, 0.644, 0.857, 0.582
+  Mean Preferences: 0.571, 0.727, 0.429, 0.867, 0.286
+  Difference:       0.004, 0.021, 0.215, 0.010, 0.296
+Student 52
+  True Preferences: 0.439, 0.868, 0.530, 0.884, 0.618
+  Mean Preferences: 0.588, 0.778, 0.462, 0.769, 0.667
+  Difference:       0.149, 0.091, 0.068, 0.115, 0.049
+Student 53
+  True Preferences: 0.765, 0.588, 0.750, 0.713, 0.488
+  Mean Preferences: 0.857, 0.455, 0.778, 0.471, 0.385
+  Difference:       0.092, 0.134, 0.028, 0.242, 0.104
+Student 54
+  True Preferences: 0.574, 0.776, 0.799, 0.843, 0.614
+  Mean Preferences: 0.600, 0.714, 0.667, 0.727, 0.600
+  Difference:       0.026, 0.062, 0.132, 0.116, 0.014
+Student 55
+  True Preferences: 0.578, 0.418, 0.621, 0.867, 0.430
+  Mean Preferences: 0.500, 0.286, 0.692, 0.875, 0.214
+  Difference:       0.078, 0.132, 0.071, 0.008, 0.216
+Student 56
+  True Preferences: 0.408, 0.783, 0.414, 0.600, 0.635
+  Mean Preferences: 0.286, 0.800, 0.316, 0.667, 0.750
+  Difference:       0.122, 0.017, 0.098, 0.066, 0.115
+Student 57
+  True Preferences: 0.597, 0.687, 0.511, 0.660, 0.561
+  Mean Preferences: 0.500, 0.810, 0.500, 0.556, 0.579
+  Difference:       0.097, 0.123, 0.011, 0.105, 0.018
+Student 58
+  True Preferences: 0.735, 0.666, 0.511, 0.567, 0.552
+  Mean Preferences: 0.533, 0.786, 0.571, 0.733, 0.450
+  Difference:       0.202, 0.119, 0.060, 0.167, 0.102
+Student 59
+  True Preferences: 0.755, 0.458, 0.535, 0.697, 0.541
+  Mean Preferences: 0.714, 0.273, 0.800, 0.909, 0.353
+  Difference:       0.041, 0.185, 0.265, 0.212, 0.188
+Student 60
+  True Preferences: 0.844, 0.683, 0.837, 0.805, 0.420
+  Mean Preferences: 0.727, 0.667, 0.857, 0.833, 0.571
+  Difference:       0.117, 0.016, 0.021, 0.028, 0.151
+Student 61
+  True Preferences: 0.653, 0.706, 0.453, 0.647, 0.558
+  Mean Preferences: 0.500, 0.737, 0.444, 0.625, 0.222
+  Difference:       0.153, 0.031, 0.009, 0.022, 0.335
+Student 62
+  True Preferences: 0.819, 0.479, 0.509, 0.698, 0.858
+  Mean Preferences: 0.769, 0.643, 0.250, 0.714, 0.850
+  Difference:       0.049, 0.164, 0.259, 0.017, 0.008
+Student 63
+  True Preferences: 0.541, 0.549, 0.425, 0.864, 0.715
+  Mean Preferences: 0.643, 0.450, 0.375, 0.800, 0.615
+  Difference:       0.102, 0.099, 0.050, 0.064, 0.099
+Student 64
+  True Preferences: 0.666, 0.754, 0.485, 0.746, 0.827
+  Mean Preferences: 0.714, 0.700, 0.714, 0.714, 0.786
+  Difference:       0.049, 0.054, 0.230, 0.031, 0.042
+Student 65
+  True Preferences: 0.896, 0.857, 0.801, 0.703, 0.545
+  Mean Preferences: 0.900, 0.688, 0.842, 0.722, 0.455
+  Difference:       0.004, 0.170, 0.041, 0.019, 0.090
+Student 66
+  True Preferences: 0.730, 0.877, 0.737, 0.789, 0.482
+  Mean Preferences: 0.714, 0.812, 0.400, 0.882, 0.500
+  Difference:       0.016, 0.065, 0.337, 0.093, 0.018
+Student 67
+  True Preferences: 0.827, 0.821, 0.634, 0.806, 0.695
+  Mean Preferences: 0.875, 0.762, 0.455, 0.762, 0.800
+  Difference:       0.048, 0.059, 0.180, 0.044, 0.105
+Student 68
+  True Preferences: 0.846, 0.895, 0.780, 0.802, 0.420
+  Mean Preferences: 0.765, 0.889, 0.812, 0.895, 0.100
+  Difference:       0.081, 0.006, 0.032, 0.092, 0.320
+Student 69
+  True Preferences: 0.512, 0.451, 0.719, 0.819, 0.859
+  Mean Preferences: 0.562, 0.357, 0.625, 0.722, 0.765
+  Difference:       0.050, 0.094, 0.094, 0.097, 0.094
+Student 70
+  True Preferences: 0.775, 0.794, 0.491, 0.532, 0.846
+  Mean Preferences: 0.583, 0.667, 0.524, 0.429, 0.810
+  Difference:       0.191, 0.127, 0.033, 0.103, 0.036
+Student 71
+  True Preferences: 0.841, 0.483, 0.719, 0.649, 0.543
+  Mean Preferences: 0.909, 0.583, 0.818, 0.700, 0.400
+  Difference:       0.069, 0.100, 0.099, 0.051, 0.143
+Student 72
+  True Preferences: 0.533, 0.752, 0.416, 0.735, 0.669
+  Mean Preferences: 0.400, 0.700, 0.421, 0.750, 0.500
+  Difference:       0.133, 0.052, 0.005, 0.015, 0.169
+Student 73
+  True Preferences: 0.477, 0.849, 0.610, 0.521, 0.874
+  Mean Preferences: 0.762, 0.733, 0.750, 0.611, 0.765
+  Difference:       0.285, 0.115, 0.140, 0.091, 0.109
+Student 74
+  True Preferences: 0.778, 0.762, 0.704, 0.630, 0.773
+  Mean Preferences: 0.923, 0.750, 0.700, 0.667, 0.714
+  Difference:       0.145, 0.012, 0.004, 0.037, 0.059
+Student 75
+  True Preferences: 0.679, 0.668, 0.491, 0.457, 0.767
+  Mean Preferences: 0.846, 0.538, 0.400, 0.500, 0.727
+  Difference:       0.167, 0.130, 0.091, 0.043, 0.040
+Student 76
+  True Preferences: 0.420, 0.900, 0.869, 0.441, 0.877
+  Mean Preferences: 0.333, 0.857, 0.706, 0.286, 0.889
+  Difference:       0.087, 0.043, 0.164, 0.156, 0.012
+Student 77
+  True Preferences: 0.773, 0.668, 0.603, 0.499, 0.686
+  Mean Preferences: 0.850, 0.857, 0.500, 0.545, 0.389
+  Difference:       0.077, 0.189, 0.103, 0.046, 0.297
+Student 78
+  True Preferences: 0.575, 0.665, 0.784, 0.860, 0.544
+  Mean Preferences: 0.375, 0.750, 0.737, 0.812, 0.857
+  Difference:       0.200, 0.085, 0.047, 0.048, 0.313
+Student 79
+  True Preferences: 0.418, 0.725, 0.781, 0.496, 0.897
+  Mean Preferences: 0.500, 0.762, 0.727, 0.733, 0.938
+  Difference:       0.082, 0.037, 0.054, 0.237, 0.040
+Student 80
+  True Preferences: 0.539, 0.568, 0.867, 0.648, 0.818
+  Mean Preferences: 0.667, 0.667, 0.952, 0.583, 0.714
+  Difference:       0.127, 0.099, 0.085, 0.065, 0.104
+Student 81
+  True Preferences: 0.492, 0.622, 0.528, 0.900, 0.703
+  Mean Preferences: 0.474, 0.909, 0.375, 0.778, 0.765
+  Difference:       0.019, 0.287, 0.153, 0.122, 0.062
+Student 82
+  True Preferences: 0.829, 0.572, 0.570, 0.477, 0.543
+  Mean Preferences: 0.812, 0.556, 0.571, 0.400, 0.385
+  Difference:       0.016, 0.016, 0.002, 0.077, 0.159
+Student 83
+  True Preferences: 0.810, 0.645, 0.406, 0.617, 0.769
+  Mean Preferences: 0.810, 0.611, 0.526, 0.524, 0.895
+  Difference:       0.001, 0.033, 0.120, 0.093, 0.126
+Student 84
+  True Preferences: 0.683, 0.659, 0.802, 0.810, 0.651
+  Mean Preferences: 0.667, 0.375, 0.905, 0.900, 0.588
+  Difference:       0.017, 0.284, 0.102, 0.090, 0.063
+Student 85
+  True Preferences: 0.857, 0.480, 0.440, 0.439, 0.844
+  Mean Preferences: 0.857, 0.500, 0.500, 0.550, 0.667
+  Difference:       0.000, 0.020, 0.060, 0.111, 0.177
+Student 86
+  True Preferences: 0.546, 0.545, 0.633, 0.677, 0.719
+  Mean Preferences: 0.600, 0.800, 0.500, 0.643, 0.824
+  Difference:       0.054, 0.255, 0.133, 0.034, 0.105
+Student 87
+  True Preferences: 0.684, 0.485, 0.683, 0.453, 0.505
+  Mean Preferences: 0.571, 0.545, 0.474, 0.286, 0.455
+  Difference:       0.113, 0.061, 0.209, 0.167, 0.050
+Student 88
+  True Preferences: 0.544, 0.865, 0.693, 0.621, 0.428
+  Mean Preferences: 0.571, 0.857, 0.526, 0.533, 0.412
+  Difference:       0.028, 0.008, 0.166, 0.088, 0.016
+Student 89
+  True Preferences: 0.679, 0.512, 0.727, 0.605, 0.818
+  Mean Preferences: 0.765, 0.583, 0.778, 0.545, 0.706
+  Difference:       0.085, 0.072, 0.051, 0.060, 0.112
+Student 90
+  True Preferences: 0.624, 0.689, 0.606, 0.483, 0.805
+  Mean Preferences: 0.714, 0.714, 0.600, 0.375, 0.500
+  Difference:       0.090, 0.025, 0.006, 0.108, 0.305
+Student 91
+  True Preferences: 0.435, 0.584, 0.449, 0.592, 0.737
+  Mean Preferences: 0.364, 0.533, 0.238, 0.750, 0.650
+  Difference:       0.072, 0.051, 0.211, 0.158, 0.087
+Student 92
+  True Preferences: 0.797, 0.763, 0.410, 0.421, 0.752
+  Mean Preferences: 0.778, 0.867, 0.727, 0.111, 0.619
+  Difference:       0.019, 0.104, 0.318, 0.310, 0.133
+Student 93
+  True Preferences: 0.698, 0.405, 0.406, 0.807, 0.671
+  Mean Preferences: 0.600, 0.643, 0.500, 0.789, 0.550
+  Difference:       0.098, 0.238, 0.094, 0.018, 0.121
+Student 94
+  True Preferences: 0.659, 0.743, 0.543, 0.864, 0.794
+  Mean Preferences: 0.750, 0.800, 0.421, 0.500, 0.737
+  Difference:       0.091, 0.057, 0.122, 0.364, 0.057
+Student 95
+  True Preferences: 0.701, 0.621, 0.759, 0.535, 0.769
+  Mean Preferences: 0.667, 0.579, 0.625, 0.625, 0.750
+  Difference:       0.034, 0.042, 0.134, 0.090, 0.019
+Student 96
+  True Preferences: 0.795, 0.858, 0.505, 0.722, 0.823
+  Mean Preferences: 0.667, 0.824, 0.278, 0.700, 0.786
+  Difference:       0.128, 0.034, 0.228, 0.022, 0.037
+Student 97
+  True Preferences: 0.708, 0.411, 0.479, 0.732, 0.661
+  Mean Preferences: 0.636, 0.333, 0.706, 0.529, 0.714
+  Difference:       0.072, 0.078, 0.227, 0.202, 0.053
+Student 98
+  True Preferences: 0.859, 0.827, 0.628, 0.651, 0.468
+  Mean Preferences: 0.714, 0.667, 0.706, 0.765, 0.556
+  Difference:       0.145, 0.160, 0.078, 0.114, 0.087
+Student 99
+  True Preferences: 0.672, 0.894, 0.680, 0.774, 0.803
+  Mean Preferences: 0.900, 0.786, 0.714, 0.727, 0.500
+  Difference:       0.228, 0.108, 0.034, 0.047, 0.303

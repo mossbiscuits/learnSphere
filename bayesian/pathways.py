@@ -46,7 +46,7 @@ for i in range(num_students):
     plt.ylabel('Density')
     plt.legend()
     plt.grid()
-    plt.savefig(f"bayesian/students/student{i}.png")
+    plt.savefig(f"bayesian/pathways/student{i}.png")
     plt.close()
 
     # Calculate the mean proficiency

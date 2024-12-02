@@ -1,0 +1,1 @@
+- Confidence scores greatly increased scores (more confidence from correct than incorrect, but increased confidence as num questions answered increases)
