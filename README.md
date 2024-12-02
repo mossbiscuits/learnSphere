@@ -20,8 +20,8 @@ Run the algorithms with the following commands:
   - See old versions of quiz customization with lower scores at `bayesian/quizzes/quizzes#.py`
 
 See the pre-generated (on our machines) results at:
-- Content type selection: `bayesian/content/results.txt`
-- Learning pathway selection: `bayesian/pathways/results.txt`
-- Quiz customization: `bayesian/quizzes/results.txt`
+- Content type selection: `bayesian/content/results.txt` and the plots contained in that folder
+- Learning pathway selection: `bayesian/pathways/results.txt` and the plots contained in that folder
+- Quiz customization: `bayesian/quizzes/results.txt` 
   - See old versions of quiz customization with lower scores at `bayesian/quizzes/results#.txt`
 
