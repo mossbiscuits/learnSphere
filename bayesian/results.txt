@@ -1,0 +1,500 @@
+Student 0
+  Assignments: 67
+  True proficiency: 0.66
+  Mean Proficiency: 0.71
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 1
+  Assignments: 70
+  True proficiency: 0.97
+  Mean Proficiency: 0.97
+  Suggested Pathway: Advanced topics and projects.
+Student 2
+  Assignments: 53
+  True proficiency: 0.57
+  Mean Proficiency: 0.55
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 3
+  Assignments: 26
+  True proficiency: 0.77
+  Mean Proficiency: 0.86
+  Suggested Pathway: Advanced topics and projects.
+Student 4
+  Assignments: 59
+  True proficiency: 0.95
+  Mean Proficiency: 0.92
+  Suggested Pathway: Advanced topics and projects.
+Student 5
+  Assignments: 35
+  True proficiency: 0.72
+  Mean Proficiency: 0.73
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 6
+  Assignments: 124
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 7
+  Assignments: 80
+  True proficiency: 0.65
+  Mean Proficiency: 0.60
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 8
+  Assignments: 34
+  True proficiency: 0.89
+  Mean Proficiency: 0.92
+  Suggested Pathway: Advanced topics and projects.
+Student 9
+  Assignments: 107
+  True proficiency: 0.29
+  Mean Proficiency: 0.20
+  Suggested Pathway: Focus on foundational topics.
+Student 10
+  Assignments: 24
+  True proficiency: 0.54
+  Mean Proficiency: 0.65
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 11
+  Assignments: 28
+  True proficiency: 0.93
+  Mean Proficiency: 0.87
+  Suggested Pathway: Advanced topics and projects.
+Student 12
+  Assignments: 41
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 13
+  Assignments: 64
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 14
+  Assignments: 140
+  True proficiency: 0.72
+  Mean Proficiency: 0.77
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 15
+  Assignments: 72
+  True proficiency: 0.99
+  Mean Proficiency: 0.97
+  Suggested Pathway: Advanced topics and projects.
+Student 16
+  Assignments: 105
+  True proficiency: 0.54
+  Mean Proficiency: 0.50
+  Suggested Pathway: Focus on foundational topics.
+Student 17
+  Assignments: 50
+  True proficiency: 0.73
+  Mean Proficiency: 0.71
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 18
+  Assignments: 45
+  True proficiency: 0.89
+  Mean Proficiency: 0.89
+  Suggested Pathway: Advanced topics and projects.
+Student 19
+  Assignments: 77
+  True proficiency: 0.83
+  Mean Proficiency: 0.86
+  Suggested Pathway: Advanced topics and projects.
+Student 20
+  Assignments: 0
+  True proficiency: 1.00
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 21
+  Assignments: 46
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 22
+  Assignments: 79
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 23
+  Assignments: 11
+  True proficiency: 0.27
+  Mean Proficiency: 0.08
+  Suggested Pathway: Focus on foundational topics.
+Student 24
+  Assignments: 0
+  True proficiency: 0.50
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 25
+  Assignments: 52
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 26
+  Assignments: 40
+  True proficiency: 0.82
+  Mean Proficiency: 0.83
+  Suggested Pathway: Advanced topics and projects.
+Student 27
+  Assignments: 0
+  True proficiency: 0.87
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 28
+  Assignments: 11
+  True proficiency: 0.49
+  Mean Proficiency: 0.54
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 29
+  Assignments: 92
+  True proficiency: 0.34
+  Mean Proficiency: 0.36
+  Suggested Pathway: Focus on foundational topics.
+Student 30
+  Assignments: 103
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 31
+  Assignments: 71
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 32
+  Assignments: 42
+  True proficiency: 0.44
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 33
+  Assignments: 85
+  True proficiency: 0.88
+  Mean Proficiency: 0.90
+  Suggested Pathway: Advanced topics and projects.
+Student 34
+  Assignments: 74
+  True proficiency: 0.73
+  Mean Proficiency: 0.72
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 35
+  Assignments: 91
+  True proficiency: 0.86
+  Mean Proficiency: 0.86
+  Suggested Pathway: Advanced topics and projects.
+Student 36
+  Assignments: 64
+  True proficiency: 0.63
+  Mean Proficiency: 0.58
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 37
+  Assignments: 0
+  True proficiency: 0.90
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 38
+  Assignments: 27
+  True proficiency: 0.15
+  Mean Proficiency: 0.14
+  Suggested Pathway: Focus on foundational topics.
+Student 39
+  Assignments: 42
+  True proficiency: 0.08
+  Mean Proficiency: 0.09
+  Suggested Pathway: Focus on foundational topics.
+Student 40
+  Assignments: 55
+  True proficiency: 0.52
+  Mean Proficiency: 0.51
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 41
+  Assignments: 86
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 42
+  Assignments: 60
+  True proficiency: 0.58
+  Mean Proficiency: 0.52
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 43
+  Assignments: 78
+  True proficiency: 0.93
+  Mean Proficiency: 0.94
+  Suggested Pathway: Advanced topics and projects.
+Student 44
+  Assignments: 33
+  True proficiency: 0.96
+  Mean Proficiency: 0.91
+  Suggested Pathway: Advanced topics and projects.
+Student 45
+  Assignments: 93
+  True proficiency: 0.60
+  Mean Proficiency: 0.62
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 46
+  Assignments: 105
+  True proficiency: 0.40
+  Mean Proficiency: 0.40
+  Suggested Pathway: Focus on foundational topics.
+Student 47
+  Assignments: 57
+  True proficiency: 0.64
+  Mean Proficiency: 0.63
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 48
+  Assignments: 0
+  True proficiency: 0.50
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 49
+  Assignments: 91
+  True proficiency: 0.41
+  Mean Proficiency: 0.49
+  Suggested Pathway: Focus on foundational topics.
+Student 50
+  Assignments: 93
+  True proficiency: 0.25
+  Mean Proficiency: 0.17
+  Suggested Pathway: Focus on foundational topics.
+Student 51
+  Assignments: 111
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 52
+  Assignments: 40
+  True proficiency: 0.83
+  Mean Proficiency: 0.90
+  Suggested Pathway: Advanced topics and projects.
+Student 53
+  Assignments: 121
+  True proficiency: 0.99
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 54
+  Assignments: 73
+  True proficiency: 0.61
+  Mean Proficiency: 0.51
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 55
+  Assignments: 36
+  True proficiency: 1.00
+  Mean Proficiency: 0.97
+  Suggested Pathway: Advanced topics and projects.
+Student 56
+  Assignments: 60
+  True proficiency: 0.72
+  Mean Proficiency: 0.76
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 57
+  Assignments: 89
+  True proficiency: 0.90
+  Mean Proficiency: 0.91
+  Suggested Pathway: Advanced topics and projects.
+Student 58
+  Assignments: 76
+  True proficiency: 0.76
+  Mean Proficiency: 0.77
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 59
+  Assignments: 92
+  True proficiency: 0.93
+  Mean Proficiency: 0.95
+  Suggested Pathway: Advanced topics and projects.
+Student 60
+  Assignments: 92
+  True proficiency: 0.56
+  Mean Proficiency: 0.55
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 61
+  Assignments: 107
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 62
+  Assignments: 71
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 63
+  Assignments: 50
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 64
+  Assignments: 0
+  True proficiency: 0.96
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 65
+  Assignments: 0
+  True proficiency: 1.00
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 66
+  Assignments: 38
+  True proficiency: 0.64
+  Mean Proficiency: 0.65
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 67
+  Assignments: 89
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 68
+  Assignments: 42
+  True proficiency: 0.36
+  Mean Proficiency: 0.39
+  Suggested Pathway: Focus on foundational topics.
+Student 69
+  Assignments: 61
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 70
+  Assignments: 84
+  True proficiency: 0.07
+  Mean Proficiency: 0.08
+  Suggested Pathway: Focus on foundational topics.
+Student 71
+  Assignments: 74
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 72
+  Assignments: 121
+  True proficiency: 0.70
+  Mean Proficiency: 0.62
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 73
+  Assignments: 0
+  True proficiency: 0.98
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 74
+  Assignments: 50
+  True proficiency: 1.00
+  Mean Proficiency: 0.98
+  Suggested Pathway: Advanced topics and projects.
+Student 75
+  Assignments: 46
+  True proficiency: 0.56
+  Mean Proficiency: 0.65
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 76
+  Assignments: 17
+  True proficiency: 0.55
+  Mean Proficiency: 0.58
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 77
+  Assignments: 44
+  True proficiency: 0.76
+  Mean Proficiency: 0.76
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 78
+  Assignments: 86
+  True proficiency: 0.27
+  Mean Proficiency: 0.31
+  Suggested Pathway: Focus on foundational topics.
+Student 79
+  Assignments: 108
+  True proficiency: 0.42
+  Mean Proficiency: 0.44
+  Suggested Pathway: Focus on foundational topics.
+Student 80
+  Assignments: 0
+  True proficiency: 0.71
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 81
+  Assignments: 0
+  True proficiency: 0.60
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 82
+  Assignments: 107
+  True proficiency: 0.81
+  Mean Proficiency: 0.83
+  Suggested Pathway: Advanced topics and projects.
+Student 83
+  Assignments: 42
+  True proficiency: 0.93
+  Mean Proficiency: 0.82
+  Suggested Pathway: Advanced topics and projects.
+Student 84
+  Assignments: 9
+  True proficiency: 0.20
+  Mean Proficiency: 0.18
+  Suggested Pathway: Focus on foundational topics.
+Student 85
+  Assignments: 41
+  True proficiency: 0.70
+  Mean Proficiency: 0.70
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 86
+  Assignments: 66
+  True proficiency: 0.65
+  Mean Proficiency: 0.68
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 87
+  Assignments: 38
+  True proficiency: 0.71
+  Mean Proficiency: 0.75
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 88
+  Assignments: 0
+  True proficiency: 0.88
+  Mean Proficiency: 0.50
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 89
+  Assignments: 52
+  True proficiency: 0.84
+  Mean Proficiency: 0.78
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 90
+  Assignments: 34
+  True proficiency: 0.60
+  Mean Proficiency: 0.67
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 91
+  Assignments: 86
+  True proficiency: 0.93
+  Mean Proficiency: 0.94
+  Suggested Pathway: Advanced topics and projects.
+Student 92
+  Assignments: 76
+  True proficiency: 0.85
+  Mean Proficiency: 0.86
+  Suggested Pathway: Advanced topics and projects.
+Student 93
+  Assignments: 76
+  True proficiency: 1.00
+  Mean Proficiency: 0.99
+  Suggested Pathway: Advanced topics and projects.
+Student 94
+  Assignments: 9
+  True proficiency: 0.86
+  Mean Proficiency: 0.82
+  Suggested Pathway: Advanced topics and projects.
+Student 95
+  Assignments: 1
+  True proficiency: 0.93
+  Mean Proficiency: 0.67
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 96
+  Assignments: 84
+  True proficiency: 0.67
+  Mean Proficiency: 0.58
+  Suggested Pathway: Intermediate topics with some advanced challenges.
+Student 97
+  Assignments: 97
+  True proficiency: 0.29
+  Mean Proficiency: 0.26
+  Suggested Pathway: Focus on foundational topics.
+Student 98
+  Assignments: 78
+  True proficiency: 0.41
+  Mean Proficiency: 0.46
+  Suggested Pathway: Focus on foundational topics.
+Student 99
+  Assignments: 22
+  True proficiency: 0.71
+  Mean Proficiency: 0.62
+  Suggested Pathway: Intermediate topics with some advanced challenges.
