@@ -25,3 +25,11 @@ See the pre-generated (on our machines) results at:
 - Quiz customization: `bayesian/quizzes/results.txt` 
   - See old versions of quiz customization with lower scores at `bayesian/quizzes/results#.txt`
 
+## Explore / Exploit
+
+Run the algorithm and view a plot with the following command:
+```
+python3 exploreExploit/finalProject.py
+```
+
+Further documentation is found at https://github.com/mossbiscuits/learnSphere/blob/main/exploreExploit/README.md
