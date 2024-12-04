@@ -33,3 +33,13 @@ python3 exploreExploit/finalProject.py
 ```
 
 Further documentation is found at https://github.com/mossbiscuits/learnSphere/blob/main/exploreExploit/README.md
+
+## Insurance / Quality Guarantee
+
+Run the algorithm and view plots with the following command:
+```
+python3 insurance/guarantee.py
+```
+
+The ouptut of this script is a calculation of the student's price, assuming a $1000 base operating cost, a 15% profit, and
+a money-back guarantee for students who fail.
