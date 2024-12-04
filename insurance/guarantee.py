@@ -3,8 +3,8 @@ import matplotlib.pyplot as plt
 import random
 
 # Define constants
-num_students = 1000
-num_simulations = 100
+num_students = 10000
+num_simulations = 1000
 passing_threshold = 0.7  # 70% of course material
 refund_rate = 0.5  # 0% of students who don't pass get a refund
 profit_margin = 0.15  # 15% profit margin
@@ -19,8 +19,8 @@ operating_cost_per_student = 1000  # base operating cost per student
 
 # Define the parameters of the beta distribution
 # Found this distribution via https://mathlets.org/mathlets/beta-distribution/
-alpha = 4.5  # shape parameter for the beta distribution
-beta = 1.5  # shape parameter for the beta distribution
+alpha = 3.5
+beta = 1.4
 
 # Simulate student behavior using a beta distribution
 student_performance = np.random.beta(alpha, beta, (num_simulations, num_students))
@@ -34,7 +34,7 @@ num_passing_students = np.sum(student_performance >= passing_threshold, axis=1)
 # Calculate the number of students who don't pass and get a refund
 num_refunded_students = np.sum(student_performance < passing_threshold, axis=1) * refund_rate
 
-# Calculate the total operating cost
+# Calculate the total operating cost, assuming worse-performing students probably require more resources
 total_operating_cost = np.sum(student_performance * operating_cost_per_student, axis=1)
 
 # Calculate the total revenue required to cover operating costs and profit margin
