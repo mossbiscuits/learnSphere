@@ -10,16 +10,23 @@ refund_rate = 0.5  # 0% of students who don't pass get a refund
 profit_margin = 0.15  # 15% profit margin
 operating_cost_per_student = 1000  # base operating cost per student
 
-# mean of 0.75 (barely passing) and a standard deviation of 0.21
-mean_grade = 0.75
-stdev_grade = 0.21
+# # mean of 0.75 (barely passing) and a standard deviation of 0.2
+# mean_grade = 0.75
+# stdev_grade = 0.4
 
+# # Simulate student behavior using a normal distribution
+# student_performance = np.random.normal(mean_grade, stdev_grade, (num_simulations, num_students))
 
-# Simulate student behavior using a normal distribution
-student_performance = np.random.normal(mean_grade, stdev_grade, (num_simulations, num_students))
+# Define the parameters of the beta distribution
+# Found this distribution via https://mathlets.org/mathlets/beta-distribution/
+alpha = 4.5  # shape parameter for the beta distribution
+beta = 1.5  # shape parameter for the beta distribution
+
+# Simulate student behavior using a beta distribution
+student_performance = np.random.beta(alpha, beta, (num_simulations, num_students))
 
 # Clip student performance to be between 0 and 1
-student_performance = np.clip(student_performance, 0, 1)
+student_performance = np.minimum(student_performance, 1.0)
 
 # Calculate the number of students who pass
 num_passing_students = np.sum(student_performance >= passing_threshold, axis=1)
