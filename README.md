@@ -34,6 +34,17 @@ python3 exploreExploit/finalProject.py
 
 Further documentation is found at https://github.com/mossbiscuits/learnSphere/blob/main/exploreExploit/README.md
 
+## Scheduling
+
+Run the simulation of the algorithm with 
+```
+python3 scheduling/scheduling.py
+```
+
+A report on the success of the simulation will be printed.
+
+You can change the number of students and number of tutors in scheduling/scheduling.py
+
 ## Insurance / Quality Guarantee
 
 Run the algorithm and view plots with the following command:
